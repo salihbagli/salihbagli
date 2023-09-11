@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/salih.baglii" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="efrun" height="30" width="40" /></a>
- <a href="https://twitter.com/salih_baglii" target="blank"><img align="center"
+ <a href="https://twitter.com/salih_bagli" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="efrun" height="30" width="40" /></a>
        <a href="https://wa.me/905435012939" target="blank"><img align="center"
